@@ -1,0 +1,801 @@
+
+
+Mark<!-- image -->
+
+## World Population Prospects 2019
+
+Highlights
+
+<!-- image -->
+
+Department of Economic and Social Affairs
+
+Population Division
+
+## World Population Prospects 2019
+
+## Highlights
+
+<!-- image -->
+
+The Department of Economic and Social Affairs of the United Nations Secretariat is a vital interface between global  policies  in  the  economic,  social  and  environmental  spheres  and  national  action.  The  Department works in three main interlinked areas: (i) it compiles, generates and analyses a wide range of economic, social and environmental data and information on which States Members of the United Nations draw to review common problems and take stock of policy options; (ii) it facilitates the negotiations of Member States in many intergovernmental bodies on joint courses of action to address ongoing or emerging global challenges; and (iii) it advises interested Governments on the ways and means of translating policy frameworks developed in  United Nations conferences and summits into programmes at the country level and, through technical assistance, helps build national capacities.
+
+The Population Division of the Department of Economic and Social Affairs provides the international community with timely and accessible population data and analysis of population trends and development outcomes for all countries and areas of the world. To this end, the Division undertakes regular studies of population size and characteristics and of all three components of population change (fertility, mortality and migration). Founded in 1946, the Population Division provides substantive support on population and development issues to the United Nations General Assembly, the Economic and Social Council and the Commission on Population and Development. It also leads or participates in various interagency coordination mechanisms of the United Nations system. The work of the Division also contributes to strengthening the capacity of Member States to monitor population trends and to address current and emerging population issues.
+
+## Notes
+
+The designations employed in this report and the material presented in it do not imply the expression of any opinions whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+
+The term 'country' as used in this report also refers, as appropriate, to territories or areas.
+
+This report is available in electronic format on the Division's website at www.unpopulation.org. For further information about this report, please contact the Population Division, Department of Economic and Social Affairs, United Nations, Two United Nations Plaza, DC2-1950, New York, 10017, USA; phone: +1 212-963-3209; email: population@un.org.
+
+## Suggested citation:
+
+United  Nations,  Department  of  Economic  and  Social  Affairs,  Population  Division  (2019). World Population Prospects 2019: Highlights (ST/ESA/SER.A/423).
+
+Official symbols of United Nations documents are composed of capital letters combined with numbers, as illustrated in the above citation.
+
+Front cover photo credit: Unsplash/Mauro Mora
+
+Back cover photo credit: UN Photo/Cia Pack
+
+Published by the United Nations
+
+Sales no.: E.19.XIII.4
+
+ISBN:   978-92-1-148316-1
+
+eISBN: 978-92-1-004235-2
+
+Copyright © 2019 by United Nations, made available under a Creative Commons license (CC BY 3.0 IGO)
+
+http://creativecommons.org/licenses/by/3.0/igo/
+
+## What is World Population Prospects 2019 ?
+
+People,  and  thus  populations,  are  at  the  centre  of  sustainable  development.  Each  of  the  four  global demographic 'megatrends'- population growth, population ageing, migration and urbanization - holds important implications for economic and social development and for environmental sustainability. Timely and accurate population estimates and projections allow Governments to anticipate future demographic trends and to incorporate that information into development policies and planning.
+
+The  2019  revision  of  the World  Population  Prospects is  the  twenty-sixth  edition  of  the  United  Nations population estimates and projections. It presents population estimates from 1950 to the present for 235 countries  or  areas,  underpinned  by  analyses  of  historical  demographic  trends.  This  latest  assessment considers the results of 1,690 national population censuses conducted between 1950 and 2018, as well as information from vital registration systems and from 2,700 nationally representative sample surveys. The 2019 revision also presents population projections to the year 2100 that reflect a range of plausible outcomes at the global, regional and country levels.
+
+The population estimates and projections presented in the World Population Prospects describe two of the four demographic megatrends (population growth and ageing), as well as key trends in human fertility, mortality, and net international migration that are integral to sustainable development. Collectively, these data constitute a critical piece of the evidence base for monitoring global progress towards the achievement of the Sustainable Development Goals by 2030.
+
+## World Population Prospects 2019 :
+
+- · Confirms that the world's population continues to grow, albeit at a slowing rate;
+- · Points to the challenges facing some countries and regions related to rapid population growth driven by high fertility;
+- · Notes that population size is decreasing in some countries due to sustained low fertility or emigration;
+- · Underscores  the  opportunities  available  to  countries  where  a  recent  decline  in  fertility  is  creating demographic conditions favourable for accelerated economic growth;
+- · Highlights the unprecedented ageing of the world's population;
+- · Confirms  the  ongoing  global  increase  in  longevity  and  the  narrowing  gap  between  rich  and  poor countries,  while  also  pointing  to  significant  disparities  in  survival  that  persist  across  countries  and regions;
+- · Describes how international migration has become an important determinant of population growth and change in some parts of the world.
+
+## Contents
+
+| What is  World Population Prospects 2019?    ...............................................................  iii                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Key findings from  World Population Prospects 2019    .............................................  1                                                                                             |
+| Introduction  .......................................................................................................................  3                                                           |
+| Population size, growth and age structure   .............................................................  5                                                                                       |
+| Demographic drivers of population change: fertility, mortality and  international migration   ...............................................................................................   23 |
+| Population dynamics and the Sustainable Development Goals   ..................   37                                                                                                                |
+| References   ........................................................................................................................   39                                                         |
+
+## Key findings from World Population Prospects 2019
+
+While  the  global  population  is  still  growing, some countries are experiencing a decrease in their total population. Virtually all countries are experiencing population ageing.
+
+- 1. The  world's  population  continues  to  grow, albeit  at  a  slower  pace  than  at  any  time  since 1950, owing to reduced levels of fertility. From an estimated 7.7 billion people worldwide in 2019, the  medium-variant  projection 1   indicates  that the global population could grow to around 8.5 billion in 2030, 9.7 billion in 2050, and 10.9 billion in 2100.
+
+and  challenging  policies  that  aim  to  achieve the  Sustainable  Development  Goals  and  ensure that no one is left behind. For many countries or areas,  including  some    Small  Island  Developing States,  the  challenges  to  achieving  sustainable development are compounded by their vulnerability to climate change, climate variability and sea-level rise.
+
+- 2. With a projected addition of over one billion people,  countries  of  sub-Saharan  Africa  could account for more than half of the growth of the world's population between 2019 and 2050, and the region's population is projected to continue growing  through  the  end  of  the  century.  By contrast, populations in Eastern and SouthEastern  Asia,  Central  and  Southern  Asia,  Latin America  and  the  Caribbean,  and  Europe  and Northern  America  are  projected  to  reach  peak population size and to begin to decline before the end of this century.
+- 3. Two-thirds  of  the  projected  growth  of  the global  population  through  2050  will  be  driven by current age structures and would occur even if childbearing  in  high-fertility  countries  today were to fall immediately to around two births per woman over a lifetime. This is  true  because  the large  population  of  children  and  youth  in  such countries  will  reach  reproductive  age  over  the next few decades and begin to have children of their own.
+- 4. Continued rapid population growth presents challenges for sustainable development.  The 47  least  developed  countries  are  among  the world's fastest growing - many are projected to double in population between 2019 and 2050 putting  pressure  on  already  strained  resources
+- 1.    See page 5 for an assessment of the uncertainty associated with global population projections.
+- 5. More than half of the projected increase in the global population up to 2050 will be concentrated in  just  nine  countries:  the  Democratic  Republic of  the  Congo,  Egypt,  Ethiopia,  India,  Indonesia, Nigeria, Pakistan, the United Republic of Tanzania, and  the  United  States  of  America.  Disparate population growth rates among  the world's largest  countries  will  re-order  their  ranking  by size:  for  example,  India  is  projected  to  surpass China  as  the  world's  most  populous  country around 2027.
+- 6. The populations of 55 countries or areas are projected  to  decrease  by  one  per  cent  or  more between 2019 and 2050 because of sustained low levels of fertility, and, in some places, high rates of emigration.  The  largest  relative  reductions in  population  size  over  that  period,  with  losses of  around  20  per  cent  or  more,  are  expected  in Bulgaria, Latvia, Lithuania, Ukraine, and the Wallis and Futuna Islands.
+- 7. In  most  of  sub-Saharan  Africa,  as  well  as  in parts  of  Asia,  Latin  America  and  the  Caribbean, recent reductions in fertility mean  that the population  at  working  ages  (25  to  64  years)  is growing faster than in other age groups, providing an opportunity for accelerated economic growth known as the 'demographic dividend' .
+- 8. In  2018, for the first time in history, persons aged 65 years  or  over  worldwide  outnumbered children under age five. Projections indicate that  by  2050  there  will  be  more  than  twice  as many  persons  above  65  as  children  under  five. By  2050,  the  number  of  persons  aged  65  years or over globally will also surpass the number of adolescents and youth aged 15 to 24 years.
+
+Trends in population size and age structure are shaped mostly by levels of fertility and mortality, which have declined almost universally around the globe. In some  countries, international migration also has become an important determinant of population change.
+
+- 9. Total fertility has fallen markedly over recent decades in many countries, such that today close to half of all people globally live in a country or area where lifetime fertility is below 2.1 live births per  woman, which is roughly the level required for  populations  with  low  mortality  to  have  a growth  rate  of  zero  in  the  long  run.  In  2019, fertility  remains  above  this  level,  on  average,  in sub-Saharan  Africa  (4.6  live  births  per  woman), Oceania  excluding  Australia  and  New  Zealand (3.4), Northern Africa and Western Asia (2.9), and Central and Southern Asia (2.4).
+
+10.  Some  countries,  including  several  in  subSaharan  Africa  and  Latin  America,  continue  to experience  high  levels  of  adolescent  fertility, with potentially adverse health and social consequences for both the young women and  their children. Between  2015  and  2020, an  estimated  62  million  babies  will  be  born  to mothers aged 15-19 years worldwide.
+
+11.  Life expectancy at birth for the world's population reached 72.6 years in 2019, an improvement  of  more  than  8  years  since  1990. Further  improvements  in  survival  are  projected to  result  in  an  average  length  of  life  globally  of around 77.1 years in 2050.
+
+12.  While considerable progress has been made towards  closing  the  longevity  differential between  countries,  the  gaps  remain  wide.  Life expectancy in the least developed countries lags 7.4 years behind the global average, due largely to persistently high levels of child and maternal mortality  and,  in  some  countries,  to  violence and conflicts or the continuing impact of the HIV epidemic.
+
+13.  In some  parts  of  the  world,  international migration  has  become  a  major  component  of population change. Between 2010 and 2020, 36 countries or areas are experiencing a net inflow of more than 200 thousand migrants; in 14 of those, the total net inflow is expected to exceed 1 million people  over  the  decade.  For  several  of  the  top receiving  countries,  including  Jordan,  Lebanon and  Turkey,  large  increases  in  the  number  of international  migrants  have  been  driven  mostly by refugee movements, in particular from Syria.
+
+- 14.  It is estimated that ten countries are experiencing a net outflow of more than 1 million migrants  between  2010  and  2020.  For  many  of these, losses of population due to migration are dominated  by  temporary  labour  movements, such as for Bangladesh (net outflow of -4.2 million during  2010-2020),  Nepal  (-1.8  million)  and  the Philippines  (-1.2 million). In others, including Syria  (-7.5  million),  Venezuela  (-3.7  million),  and Myanmar  (-1.3  million),  insecurity  and  conflict have driven the net outflow of migrants over the decade.
+
+Societies can adapt to demographic realities by anticipating  future  trends  and  incorporating that information into policies and planning.
+
+- 15.  Countries  where  fertility  levels  remain  high should  prepare  to  meet  the  needs  of  growing numbers of children and young people. Countries  where  a  decline  in  fertility  is  creating an opportunity for a demographic  dividend need  to  invest  in  human  capital  by  ensuring access  to  health  care  and  education  at  all  ages and  opportunities  for  productive  employment. Countries  with  ageing  populations  should  take steps to adapt public programmes to the growing proportion of older persons. All countries should take  steps  to  facilitate  safe,  orderly  and  regular migration for the benefit of all.
+
+16.  The quality of population estimates and projections  hinges  on  the  collection  of  reliable and timely demographic data, including through  civil registration systems,  population censuses, population registers, where they exist, and household surveys. The 2020 round of national population censuses, which is currently under  way,  will provide  critical demographic information to inform development planning and to  assess  progress  towards  the  achievement  of the Sustainable Development Goals.
+
+## Introduction
+
+Understanding global population trends and anticipating  the  demographic  changes  to  come are crucial to the achievement of the 2030 Agenda  for  Sustainable  Development.  The  2030 Agenda  emphasizes  that  people  are  at  the  centre of sustainable development,  echoing  the  ideals set forth in the Programme  of  Action  of  the International Conference on Population and Development adopted in Cairo in 1994. Population trends  observed  over  the  past  few  decades  point to  substantial  progress  made  towards  several  of the Sustainable Development Goals (SDGs) so far. Examples  include  reduced  mortality,  particularly among  children,  as  well  as  increased  access  to sexual and reproductive health care and enhanced gender  equality  that  have  empowered  women  to decide freely and responsibly the number, spacing and timing of their children.
+
+Recent  demographic  trends  are  harbingers  of  the future  challenges  to  sustainable  development.  For example,  countries  experiencing  rapid  population growth, most of which are in sub-Saharan Africa, must provide schooling and health care to growing numbers  of  children,  and  ensure  education  and employment  opportunities  to  increasing  numbers of  youth.  Countries  where  population  growth  has slowed or stopped must prepare for an increasing proportion  of  older  persons  and,  in  some  cases, decreasing population size. These and other challenges can be addressed in part by anticipating coming demographic trends and incorporating that information into policies and planning.
+
+indicators  used  to  monitor  progress  towards  the achievement  of  the  SDGs.  The  2019  revision  of the World Population Prospects is  the  twenty-sixth edition of the United Nations population estimates and  projections,  which  have  been  prepared  since 1951 by the Population Division of the Department of Economic and Social Affairs. The 2019 revision presents population estimates from 1950 until the present for 235 countries or areas, which have been developed  through  country-specific analyses of historical demographic trends. It builds on previous revisions  by  incorporating  additional  results  from the  2010  and  2020  rounds  of  national  population censuses as well as information from vital registration  and  recent  nationally  representative household surveys. The 2019 revision also presents population projections to the year 2100 that reflect a range of plausible outcomes at the global, regional and country levels.
+
+The United Nations population estimates and projections form a comprehensive set of demographic data to assess population trends at the global, regional and national levels. They are used in the calculation of many of the key development indicators  commonly  used  by  the  United  Nations system,  including  for  more  than  one  third  of  the
+
+These Highlights summarise key population trends described by the estimates and projections presented in World Population Prospects 2019 .  This  report  is organized in three parts. The first describes trends in population size, growth and age structure. Part two discusses  the  demographic  drivers  of  population change, that is, fertility, mortality and international migration.  Part  three  considers  the  implications of population trends for the policies and planning needed to achieve the SDGs. Several boxes discuss selected  issues  related  to  the  population  estimates and projections, including the fertility  trajectories that will determine future population growth (box 1),  the  data  sources  and  methods  that  underpin the 2019 revision of the World Population Prospects (box 2), and the need to further strengthen the  collection  and  use  of  demographic  data  for sustainable development (box 3).
+
+Stepping it up on the streets of New York City, UN Women/Ryan Brown
+
+<!-- image -->
+
+## Population size, growth and age structure
+
+- 1. The  world's  population  continues  to  grow, albeit at a slower pace than at any time since 1950 (figure 1).
+
+The world's population reached 7.7 billion in mid2019, having added one billion people since 2007 and two billion since 1994.
+
+according to the medium-variant projection, which assumes  a  decline  of  fertility  for  countries  where large  families  are  still  prevalent,  a  slight  increase of fertility in several countries where women have fewer than two live births on average over a lifetime, and continued reductions in mortality at all ages.
+
+The growth rate of the world's population peaked in  1965-1970,  when  it  was  increasing  by  2.1  per cent  per  year,  on  average.  Since  then,  the  pace  of global population growth has slowed by half, falling below 1.1 per cent per year in 2015-2020, and it is projected  to  continue  to  slow  through  the  end  of this century.
+
+The global population is expected to reach 8.5 billion in 2030, 9.7 billion in 2050 and 10.9 billion in 2100,
+
+There is inherent uncertainty in population projections.  At  the  global  level  that  uncertainty depends  on  the  range  of  plausible  future  trends in  fertility,  mortality  and  international  migration, which have been assessed for each country or area using  demographic  and  statistical  methods.  This analysis concludes that, with a certainty of 95 per cent,  the  size  of  the  global  population  will  stand between  8.5  and  8.6  billion  in  2030,  between  9.4 and 10.1 billion in 2050, and between 9.4 and 12.7 billion in 2100.
+
+## Figure 1. Population size and annual growth rate for the world: estimates, 1950-2020, and medium-variant projection with 95 per cent prediction intervals, 2020-2100
+
+Population growth continues at the global level, but the rate of increase is slowing, and the world's population could cease to grow around the end of the century
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+<!-- image -->
+
+Thus, the size of the world's population is virtually certain to rise over the next few decades. Later in the century, although a continued increase of the global population is considered the most likely outcome, there is roughly a 27 per cent chance that the world's population could stabilize or even begin to decrease sometime before 2100.
+
+- 2. Sub-Saharan  Africa  will  account  for  most of  the  growth of the world's population over the coming decades, while several other regions will  begin  to  experience  decreasing  population numbers.
+
+Sub-Saharan  Africa  is  projected  to  become  the most  populous  of  the  eight  geographic  regions 2 (hereafter 'regions' or 'SDG regions') around 2062, surpassing  both  Eastern  and  South-Eastern  Asia and Central and Southern Asia in size (figure 2).
+
+While population growth in Northern Africa and Western Asia has been slower than in sub-Saharan Africa  over  recent decades,  the  region  is also projected to continue to grow through the end of this  century,  adding  237  million  people  between 2019  and  2050  and  another  170  million  people between 2050 and 2100.
+
+Of  the  additional  2.0  billion  people  who  may  be added to the global population between 2019 and 2050, 1.05 billion (52 per cent) could be added in countries  of  sub-Saharan  Africa.  Another  25  per cent of global population growth is expected to be concentrated in Central and Southern Asia, which is projected to add 505 million people between 2019 and 2050.
+
+The  world's  two  most  populous  regions  in  2019 are Eastern and South-Eastern Asia, with 2.3 billion  people,  representing  30  per  cent  of  the global population, and Central and Southern Asia,  with  2.0  billion  (26  per  cent).  Both  regions, which experienced rapid population growth since
+
+Table 1. Population of the world, SDG regions and selected groups of countries, 2019, 2030, 2050 and 2100, according to the medium-variant projection
+
+|                                  | Population (millions)   | Population (millions)   | Population (millions)   | Population (millions)   |
+|----------------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| Region                           | 2019                    | 2030                    | 2050                    | 2100                    |
+| World                            | 7 713                   | 8 548                   | 9 735                   | 10 875                  |
+| Sub-Saharan Africa               | 1 066                   | 1 400                   | 2 118                   | 3 775                   |
+| Northern Africa and Western Asia | 517                     | 609                     | 754                     | 924                     |
+| Central and Southern Asia        | 1 991                   | 2 227                   | 2 496                   | 2 334                   |
+| Eastern and South-Eastern Asia   | 2 335                   | 2 427                   | 2 411                   | 1 967                   |
+| Latin America and the Caribbean  | 648                     | 706                     | 762                     | 680                     |
+| Australia/New Zealand            | 30                      | 33                      | 38                      | 49                      |
+| Oceania *                        | 12                      | 15                      | 19                      | 26                      |
+| Europe and Northern America      | 1 114                   | 1 132                   | 1 136                   | 1 120                   |
+| Least developed countries        | 1 033                   | 1 314                   | 1 877                   | 3 047                   |
+| Land-locked Developing Countries | 521                     | 659                     | 926                     | 1 406                   |
+| Small Island Developing States   | 71                      | 78                      | 87                      | 88                      |
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+## Figure 2. Population by SDG region: estimates, 1950-2020, and medium-variant projection with 95 per cent prediction intervals, 2020-2100
+
+Of the eight SDG regions, only sub-Saharan Africa is projected to sustain rapid population growth through the end of the century, according to the medium-variant projection
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+- * excluding Australia and New Zealand
+
+the  mid-twentieth  century,  are  expected  to  reach their  peak  population  size  in  the  coming  decades. Eastern and SouthE astern Asia is projected to reach a  maximum  population  size  of  2.4  billion  around 2038 and Central and Southern Asia is projected to peak some 27 years later at under 2.6 billion around 2065.
+
+The combined population of Europe and Northern America is stabilizing, having reached 1.11 billion in  2019  and,  according  to  the  medium  variant, projected to grow slowly to just under 1.14 billion around  2042  and  decline  thereafter  to  about  1.12 billion at the end of the century.
+
+The population of Latin America and the Caribbean, which more than tripled in size between 1950 and 2019, is projected to peak at just below 768 million around  2058  and  decline  thereafter  to  about  680 million in 2100.
+
+The population of Oceania* 3 is projected to continue to grow through the end of the century. The total population  of  the  region,  excluding  Australia  and New Zealand, is expected to increase from just over 12  million  in  2019  to  19  million  in  2050  and  26 million in 2100. Australia and New Zealand, which are  home to 30 million people in 2019, could see their population grow to 38 million in 2050 and 49 million in 2100, according to the medium-variant projection.
+
+- 3. Two-thirds  of  the  projected  growth  of  the global  population  through  2050  will  be  driven by  current  age  structures.  It  would  occur  even if  childbearing  in  high-fertility  countries  today were to fall immediately to around two births per woman over a lifetime.
+
+Globally, the generation  of  young  people  now entering their reproductive years is larger than their parents'  generation.  Thus, e ven  if t he g lobal l evel of fertility were to fall immediately to around two births per woman, the number of births would still exceed  the  number  of  deaths  for  several  decades, and the world's population would continue to grow.
+
+The i mplication o f t he c urrent p opulation a ge structure  for  future  population  growth  is  called
+
+'population  momentum'  and  can  be  assessed  at the global level by projecting the population while assuming that (a) mortality rates remain constant at current levels; and (b) fertility instantly equals the replacement level associated with the current level of mortality.
+
+A comparison of the projected size of the world's population  according  to  the  medium  variant  and the 'momentum scenario' indicates that 68 per cent of global population growth between 2020 and 2050 is  implied by the current population age structure (figure 3). That is, this growth would occur even if global fertility  were  to  fall  immediately  to  around two births per woman over a lifetime. The remaining 32 per cent of the growth projected by the medium variant  is  due  to  fertility  above  the  level  required to balance  mortality, as well as improvements in  survival,  that  are  considered  likely  over  that period.  After  2050,  the  population  size  projected by the momentum scenario gradually levels off at around 9.3 billion, and the impact of the current age structure  on  projected  growth  between  2050  and 2100 is negligible.
+
+This assessment of population momentum implies that over the short term, between 2020 and 2050, only a limited portion of world population growth can be influenced by policies that slow or accelerate fertility decline.
+
+In  regions  where  fertility  has  declined  recently such that it is close to two births per woman over a  lifetime,  including  Central  and  Southern  Asia and  Latin  America  and  the  Caribbean,  virtually all  of  the  projected  population  growth  between now and 2050 will be driven by relatively youthful population  age  structures.  By  contrast,  in  regions where  lifetime  fertility  remains  well  above  two births per woman, such as sub-Saharan Africa and Oceania*,  population  momentum  accounts  for  42 and 58 per cent, respectively,  of  projected  growth between  2019  and  2050.  In  these  regions,  future growth  is  additionally  driven  by  levels  of  fertility above  the  level  required  to  balance  mortality  and yield zero growth over the long run.
+
+## Box 1. Future population growth is highly dependent on the path that future fertility will take
+
+In the medium-variant projection, global fertility falls from just under 2.5 births per woman in 2019 to around 2.2 in 2050 and further to 1.9 in 2100.  Underlying such projections for the world are implicit assumptions about ongoing progress in social and economic development, which will influence future fertility levels. Specifically, the medium variant assumes that fertility rates will continue to decline in current high-fertility countries and will increase slightly in countries where women on average are now having well under two live births in a lifetime.
+
+## How likely is continued fertility decline in high-fertility countries?
+
+For countries with high levels of fertility, the projected decline built into the medium variant is based on a  country's  own fertility  trend,  informed  as  well  by  data  on  historical  fertility  transitions  from  all  regions of the world, focusing on the period after the middle of the twentieth century when modern methods of contraception  came  into  use. These  transitions  were  driven  by  multiple  factors  of  human  development, including  reductions  in  child  mortality,  increased  levels  of  education  in  particular  for  women  and  girls, increased urbanization, expanded access to reproductive health-care services including for family planning, and women's empowerment and growing labour force participation. Thus, the medium variant implicitly assumes that high-fertility populations will experience development-related fertility decline similar to past transitions observed in countries that developed earlier.
+
+The  substantial  reductions  in  fertility  depicted  in  the  medium  variant  seem  likely  to  occur  if  there  is continued progress in all facets of development noted above, especially in the least developed countries. Further improvements in access to family planning information and services will enable women and couples to achieve their desired family size, which is likely to continue falling with increased levels of development.  If the international community does not follow through on its commitment to ensure that all men and women are informed and have access to safe, effective, affordable and acceptable methods of family planning of their choice, then future fertility declines may occur more slowly, and future population growth may be faster than what is depicted in the medium variant.  Conversely, an accelerated expansion in access to family planning information and services could result in a more rapid fertility decline and a smaller global population in the future than projected under the medium variant.
+
+## Will very low fertility levels be sustained in current low-fertility countries?
+
+The transition from higher to lower levels of fertility has unfolded almost universally around the world over the past two centuries. By contrast, sustained periods of very low fertility, in a range of 1 to 1.5 births per woman over a lifetime, are without a comparable historical precedent to inform the assumptions underlying the medium-variant fertility projection for countries currently with very low levels of fertility.
+
+Evidence from surveys of childbearing preferences indicate that even in populations with low or very low fertility for decades, women continue to express a desire for around two children on average. The myriad reasons  for  the  gap  between  desired  and  completed  fertility  include  such  factors  as  an  incompatibility between childrearing and the demands of higher education and career building, a lack of affordable highquality child care, the decline of reproductive capacity at advanced maternal ages, and imbalanced gender roles for housework and child care.
+
+The fact that fertility preferences remain close to two children per woman, even as realized fertility has fallen well below that level, suggests that the fertility rate in low-fertility countries may increase as populations learn to manage and mitigate some or all impeding factors. The trend in many countries towards gender equality and women's empowerment, as well as expanded access to sexual and reproductive health care and services, also indicates that it may become possible for more women and couples in current low-fertility countries to achieve their desired family size, eventually raising the average fertility levels.   Given that a growing number of countries is expressing a desire to increase the fertility rate and that some have achieved this outcome, supported by government policies and programmes, a rebound in the fertility trend in current low-fertility countries seems the most plausible future trajectory over the long run.
+
+## Figure 3. Projected size of the world's population, medium variant and momentum scenario, 2020-2100
+
+Most of the population growth that will occur between today and 2050 is driven by 'population momentum' and would occur even if fertility rates in high-fertility countries were to fall immediately to
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+<!-- image -->
+
+## 4. Continued rapid population growth presents challenges for sustainable development.
+
+The  rate  of  population  growth  remains  especially high in the group of 47 countries designated by the United  Nations  as  least  developed ,  including  32 4 countries  in  sub-Saharan  Africa.  With  an  average growth of 2.3 per cent annually from 2015 to 2020, the total population of the least developed countries (LDCs) as a group is growing 2.5 times faster than the total population of the rest of the world (figure 4). Although the growth rate of LDCs is projected to slow in the future, the population of this group of countries is projected to nearly double in size from 1 billion inhabitants in 2019 to 1.9 billion in 2050, and to increase further to 3.0 billion in 2100.
+
+the population is projected to nearly triple by 2050 (figure  5).  Most  of  the  LDCs  that  are  expected  to double  in  population  size  are  the  world's  poorest countries,  with  gross  national  income  (GNI)  per capita below US$1,000.
+
+Between 2019 and 2050, the populations of 18 LDCs, all in sub-Saharan Africa, have a high probability of at least doubling in size, while in one country, Niger,
+
+Several  of  the  least  developed  countries  that  are experiencing  rapid  population  growth  are  Small Island Developing States (SIDS) , such as Comoros, 5 Guinea-Bissau, Sao Tome and Principe, the Solomon Islands and Vanuatu. For many SIDS, the challenges  to  achieving  sustainable  development are  compounded  by  their  vulnerability  to  climate change,  climate  variability  and  sea-level  rise.  The SIDS collectively are home to 71 million people in 2019. It is projected that this group of countries or areas will house 78 million people in 2030 and 87 million in 2050.
+
+## Figure 4. Estimated and projected annual rates of population growth for the 47 least developed countries and the rest of the world, 1950-2100, according to the medium-variant projection
+
+The total population of the least developed countries is growing at a rate that is 2.5 times faster than the growth rate of the total population of the rest of the world
+
+<!-- image -->
+
+Year
+
+## Figure 5. Ratio of medium-variant projection of population in 2050 to estimated population in 2019 and per capita annual gross national income of the least developed countries
+
+Many of the least developed countries that are anticipating rapid population growth are also among the poorest, with per capita annual GNI below US$1,000
+
+<!-- image -->
+
+Data sources: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . GNI is from World Bank (2018). World Development Indicators. GNI per capita, Atlas method .
+
+- * excluding Australia and New Zealand
+
+- 5. Several  of  the  world's  largest  countries  will drive much  of anticipated global population change.
+
+More  than  half  of  the  projected  increase  in  the global  population to 2050 will be concentrated in just nine countries. Ordered by the absolute increase in  population,  they  are:  India,  Nigeria,  Pakistan, Democratic  Republic  of  the  Congo,  Ethiopia,  the United Republic of Tanzania, Indonesia, Egypt and the United States of America (figure 6).
+
+India is expected to add nearly 273 million people between  2019  and  2050,  while  the  population of  Nigeria  is  projected  to  grow  by  200  million. Together, these two countries could account for 23 per cent of the global population increase to 2050.
+
+Close to 1.5  billion  of  the  2.0  billion  projected  to be  added  to  the  world's  population  between  2019 and 2050 is expected to be concentrated in the 22 countries listed in figure 6.
+
+Disparate population growth rates among  the world's largest countries will re-order their ranking by population size (figure 7).
+
+China, with 1.43 billion people in 2019, and India, with  1.37  billion,  have  long  been  the  two  most populous countries of the world, comprising 19 and 18 per cent, respectively, of the global total in 2019. They are followed by the United States of America, with 329 million in 2019, and Indonesia, with 271 million.
+
+The populations of both Pakistan and Nigeria more than doubled in size between 1990 and 2019, with Pakistan  moving  up  in  rank  from  the  8th  to  the 5th position and Nigeria from the 10th to the 7th position.
+
+Current projections indicate that India will surpass China as the world's most populous country around 2027.
+
+After this re-ordering between 2019 and 2050, the ranking of the five largest countries is projected to be preserved through the end of the century, when India  could  remain  the  world's  most  populous country with nearly 1.5 billion inhabitants, followed by China with just under 1.1 billion, Nigeria with 733 million, the United States with 434 million, and Pakistan with 403 million inhabitants.
+
+6. A growing number of countries are experiencing a decrease in population size. This is due to sustained low levels of fertility and, in some places, high rates of emigration.
+
+In  total,  27  countries  or  areas  have  experienced population decrease of at least one per cent since 2010 (figure 8). The largest decline was observed in the Syrian Arab Republic, where the population in 2019 is 20 per cent smaller than in 2010, due to the outflow of refugees and heightened mortality risks associated with the conflict there. Already high rates of emigration from Puerto Rico increased further in the wake of Hurricane Maria in 2017 and, as a result, the  island's  population  decreased  by  18  per  cent between 2010 and 2019. Another eight countries or areas also experienced population decrease of more than five per cent since 2010: Andorra, Bosnia and Herzegovina, Bulgaria, Latvia, Lithuania, Romania, Saint Pierre and Miquelon, and Wallis and Futuna Islands.
+
+In  14  of  the  27  countries  or  areas  where  the population declined by at least one per cent between 2010 and 2019, the rate of natural increase was negative over that period, that is, the number of deaths exceeded the number of births. Examples include  Japan,  which  recorded  2.6  million  more deaths than births from 2010 to 2019, and Ukraine, where deaths exceeded births by close to 2.3 million over that period. In 23 of the 27 countries or areas where the  population  declined  between  2010  and 2019,  more  people  left  the  country  than  arrived, that is, net international migration was negative.
+
+Between 2019 and 2050, 55 countries or areas are expected  to  see  their  populations  decrease  by  at least one per cent (figure 9). In the largest of these, China,  the  population  is  projected  to  shrink  by 31.4  million,  or  2.2  per  cent.  As  a  proportion  of the total population, the largest projected declines are for Lithuania and Bulgaria, where the projected population in 2050 will be 23 per cent smaller than in 2019, followed by Latvia (22 per cent), the Wallis and Futuna Islands (20 per cent), and Ukraine (20 per  cent).  Another  21  countries  are  projected  to experience population decrease of between 10 and 20 per cent between 2019 and 2050, many of which are located in Eastern Europe or the Caribbean. For 47 of the 55 countries with a projected population in 2050 that is at least one per cent smaller than in
+
+## Figure 6. Countries ranked by their contribution to projected global population growth between 2019 and 2050, according to the medium-variant projection
+
+Twenty-two countries will account for around 1.5 billion of the total 2.0 billion people expected to be added to the world between 2019 and 2050
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+<!-- image -->
+
+2019, the projected number of deaths exceeds the projected  number  of  births  over  that  period.  For 31 of the 55 countries, projected net international migration during 2020-2050 is negative.
+
+- 7. In  some  parts  of  the  world,  populations  are still relatively young.  In some  countries, the number of people in the working ages is growing faster than in other age groups, creating a window of opportunity for rapid economic growth known as the 'demographic dividend' .
+
+Although  the populations of all countries are expected  to  grow  older  within  the  foreseeable future, populations will remain relatively young, at least  for  the  short-term,  in  regions  where  fertility is still high. In sub-Saharan Africa, for example, 62 per cent of the population is below age 25 in 2019
+
+(figure 10). This percentage is expected to fall only slightly to 59 per cent in 2030 and to decline further to around 52 per cent in 2050.
+
+In most  of  sub-Saharan  Africa,  as well as in Oceania* and parts of Asia, Latin America and the Caribbean,  the  working-age  population  (25  to  64 years) is growing faster than other age groups (figure 11).  These  conditions  can  yield  an  opportunity for  accelerated  economic  growth  known  as  the 'demographic  dividend' .  The  percentage  of  the population that is aged 25 to 64 years in sub-Saharan Africa is projected to rise for several decades, from 35  per  cent  in  2019  to  43  per  cent  in  2050  and to  50  per  cent  in  2100.  In  Latin  America  and  the Caribbean,  the  window  of  time  for  an  increasing proportion of the population at working ages will be shorter, with a peak around 2039, while in Central
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+<!-- image -->
+
+## Figure 8. Countries and areas where population decreased by at least one per cent between 2010 and 2019
+
+Twenty-seven countries or areas have experienced population decrease of at least one per cent since 2010
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+Fifty-five countries or areas are expected to see their populations decrease by at least one per cent between 2019 and 2050
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+and Southern Asia the proportion aged 25 to 64 is expected to peak around 2047.
+
+Of  the  eight  SDG  regions,  the  proportion  of  the population  of  working  age  is  highest  in  Eastern and South-Eastern Asia, where 56 per cent are aged 25  to  64  years  in  2019.  This  age  group  accounts for  more  than  half  of  the  population  in  Europe, Northern  America  and  Australia/New  Zealand  as well. However, as a result of population ageing the projections  indicate  that  by  2050  the  proportion aged 25 to 64 years will fall  below  50  per  cent  in each of these regions.
+
+## 8. Historically  low  levels  of  fertility  combined with increased longevity ensure that populations in  virtually  all  countries  and  areas  are  growing older.
+
+five  years  of  age  worldwide  (figure  12).  Between 2019  and  2050,  the  number  of  persons  aged  65 or over globally is projected to more than double, while the number of children under five is projected to remain relatively unchanged. Consequently, the projections indicate that in 2050 there will be more than twice as many older persons as children under five.  Moreover,  it  is  expected  that  in  2050  the  1.5 billion people aged 65 years or over worldwide will outnumber  adolescents  and  youth  aged  15  to  24 years (1.3 billion).
+
+Whereas the overall numbers of males and females globally  are  about  equal,  women  outnumber  men at  older  ages  owing  to  their  longer  average  life expectancy. In 2019, women comprise 55 per cent of  those  aged 65 years or over and 61 per cent of those aged 80 years or over globally.
+
+In 2018, for the first time in human history, persons aged 65 years or over outnumbered children under
+
+All  201  countries  or  areas  with  at  least  90,000 inhabitants in 2019 are projected to see an increase
+
+The share of the population under age 25 is declining in each of the eight SDG regions
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+## Figure 11. Estimated and projected percentage of population aged 25-64 years by SDG region, 1990-2100, according to the medium-variant projection
+
+An increasing proportion of population in the working ages is presenting an opportunity for a demographic dividend in some parts of the world
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+Persons aged 65 years or over make up the fastest-growing age group
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+- * excluding Australia and New Zealand
+
+in the  proportion  of  persons  aged  65  or  over between 2019 and 2050. At the global level in 2019, approximately nine per cent of people are aged 65 or over (table 2). The proportion of older persons in the world is projected to reach nearly 12 per cent in 2030, 16 per cent in 2050 and it could reach nearly 23 per cent by 2100. Europe and Northern America have the most aged population in 2019, with 18 per cent  aged  65  or  over,  followed  by  Australia/New Zealand (16 per cent). Both regions are continuing to  age  further.  Projections  indicate  that  by  2050 one in every four persons in Europe and Northern America could be aged 65 years or over.
+
+age  distribution  of  the  eight  SDG  regions,  is  also projected to experience population ageing over the coming decades, but to a much lesser extent, with the  percentage  of  the  population  aged  65  or  over rising from three per cent in 2019 to around five per cent in 2050.
+
+Populations in other regions are also projected to age  significantly  over  the  next  several  decades. For  Latin  America  and  the  Caribbean,  the  share of  the  population  aged  65  years  or  over  could increase from 9 per cent in 2019 to 19 per cent in 2050.  Similarly,  the  proportion  aged  65  or  over in  Eastern  and  South-Eastern  Asia  is  expected  to increase from 11 per cent in 2019 to 24 per cent in 2050. Sub-Saharan Africa, which has the youngest
+
+The number of people above age 80 years is growing even faster than the number above age 65. In 1990 there were just 54 million people aged 80 or over in  the  world,  a  number  that  nearly  tripled  to  143 million  in  2019.  Globally,  the  number  of  persons aged 80 or over is projected to nearly triple again to 426 million in 2050 and to increase further to 881 million in 2100. In 2019, 38 per cent of all persons aged  80  or  over  reside  in  Europe  and  Northern America, a share that is expected to decline to 26 per cent in 2050 and to 17 per cent in 2100 as the older  populations  of  other  regions  continue  to increase in size.
+
+Population ageing will have a profound effect on the potential support ratio, defined here as the number
+
+Table 2. Percentage of population aged 65 years or over for the world, SDG regions and selected groups of countries, 2019, 2030, 2050 and 2100, according to the medium-variant projection
+
+| Region                                  |   2019 |   2030 |   2050 |   2100 |
+|-----------------------------------------|--------|--------|--------|--------|
+| World                                   |    9.1 |   11.7 |   15.9 |   22.6 |
+| Sub-Saharan Africa                      |    3   |    3.3 |    4.8 |   13   |
+| Northern Africa and Western Asia        |    5.7 |    7.6 |   12.7 |   22.4 |
+| Central and Southern Asia               |    6   |    8   |   13.1 |   25.7 |
+| Eastern and South-Eastern Asia          |   11.2 |   15.8 |   23.7 |   30.4 |
+| Latin America and the Caribbean         |    8.7 |   12   |   19   |   31.3 |
+| Australia/New Zealand                   |   15.9 |   19.5 |   22.9 |   28.6 |
+| Oceania *                               |    4.2 |    5.3 |    7.7 |   15.4 |
+| Europe and Northern America             |   18   |   22.1 |   26.1 |   29.3 |
+| Least developed countries               |    3.6 |    4.2 |    6.4 |   15.3 |
+| Land-locked Developing Countries (LLDC) |    3.7 |    4.5 |    6.4 |   16.8 |
+| Small Island Developing States (SIDS)   |    8.7 |   11.9 |   16.1 |   23.7 |
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+## Figure 13. Percentage of population aged 65 years or over in 1990, 2019 and 2050, according to the medium-variant projection
+
+Virtually all countries and areas are experiencing population ageing
+
+1990
+
+<!-- image -->
+
+No data
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019
+
+.
+
+T he designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan. The final status of Jammu and Kashmir has not yet been agreed upon by the parties. Final boundary between the Republic of Sudan the Republic of South Sudan has not yet been determined. A dispute exists between the Governments of Argentina and the United Kingdom of Great Britain and Northern Ireland concerning sovereignty over the Falkland Islands (Malvinas).
+
+of people of working age (25 to 64 years) per person aged 65 years or over. In 2019, sub-Saharan Africa has 11.7 persons aged 25 to 64 for each person aged 65 or over. This ratio is 10.2 for Oceania*, 8.3 for Northern Africa and Western Asia, 8.0 for Central and Southern Asia, 5.8 for Latin America and the Caribbean, 5.0 for Eastern and South-Eastern Asia, 3.3  for  Australia  and  New  Zealand,  and  3.0  for Europe  and  Northern  America.  At  1.8,  Japan  in 2019  has  the  lowest  potential  support  ratio  of  all countries or areas with at least 90,000 inhabitants. An additional 29 other countries or areas, mostly in Europe and the Caribbean, have potential support ratios below three.
+
+By 2050, 48 countries, mostly in Europe, Northern America, Eastern  Asia  or  South-Eastern  Asia,  are expected  to  have  potential  support  ratios  below two.  These  low  values  underscore  the  potential impact of population ageing on the labour market and  economic  performance  as  well  as  the  fiscal pressures that many countries are likely to face in the coming decades in relation to public systems of health care, pensions and social protection schemes for older persons.
+
+## Figure 14. Estimated and projected potential support ratio by SDG region, 1990-2100, according to the medium-variant projection
+
+Population ageing leads to a decline in the potential support ratio, which describes the number of working-age persons relative to the number of older persons in the population
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+<!-- image -->
+
+## Box 2. Data sources and methods
+
+With  each  successive  revision  of  the World  Population  Prospects ,  the  Population  Division  of  the  United Nations estimates historical demographic trends for the period from 1950 to the present and projects future population trends out to 2100. The estimates are based on all available sources of data on population size and levels of fertility, mortality and international migration for 235 distinct countries or areas comprising the total population of the world.
+
+A description of the empirical data that inform the latest set of estimates is available on the World Population Prospects web page (https://population.un.org/wpp/) under 'Data sources.' In total, the 2019 revision is based on information from:
+
+- · 1,690 population and housing censuses for 235 countries or areas, including 236 censuses conducted since 2010;
+- · vital registration of births and deaths from 163 countries or areas;
+- · 2,700 surveys, including demographic and health surveys, conducted in 235 countries or areas, among which 540 were administered in 2010 or later;
+- · official statistics reported to the Demographic Yearbook of the United Nations;
+- · population registers and other administrative sources on international migration statistics.
+
+In  addition to the national data sources described above, the 2019 revision has considered international estimates from the following sources:
+
+- •       refugee statistics from the Office of the United Nations High Commissioner for Refugees (UNHCR);
+- · estimated time series of adult HIV prevalence and coverage of antiretroviral treatment from the Joint United Nations Programme on HIV/AIDS (UNAIDS);
+- · estimated time series of infant and under-five mortality from the United Nations Inter-agency Group for Child Mortality Estimation (UN-IGME);
+- · estimates of international migration flows and stocks of foreign-born persons from the United Nations;
+- · various other series of international estimates produced by international and regional organizations, and academic research institutions † .
+
+These data sources served to reconstruct population changes in each country or area from 1950 until the present. In doing so, the Population Division used the cohort-component method (United Nations, 1956) to ensure internal consistency by age and sex and over time, and between the three demographic components of  change  (fertility,  mortality  and  migration)  and  the  enumerated  population.  The  cohort-component method was also used to project population trends until 2100 using a variety of demographic assumptions concerning the components of population change.
+
+In the 2019 revision, the figures from 1950 through the period from mid-2015 to mid-2020 are treated as estimates, and thus the projections for each country or area begin on 1 July 2020 and extend until 2100. In projecting future levels of fertility and mortality, probabilistic methods were used to reflect the uncertainty of  the  projections  based  on  the  historical  variability  of  changes  in  each  variable. The  method  takes  into account the past experience of each country, while also reflecting uncertainty about future changes based on the past experience of other countries under similar conditions.
+
+The medium-variant projection highlighted in this report corresponds to the median of several thousand distinct trajectories of each demographic component derived using the probabilistic model of the variability in  changes  over  time.  Prediction  intervals  reflect  the  spread  in  the  distribution  of  outcomes  across  the projected trajectories and thus provide an assessment of the uncertainty inherent in the medium-variant projection.  In  addition,  a  number  of  projection  variants  were  produced  to  convey  the  sensitivity  of  the medium-variant projection to changes in the underlying assumptions, and to explore the implications of alternative future scenarios of population change.
+
+† Including the Human Mortality Database and Human Life Table Database (UC Berkeley, MPIDR and INED), the Human Fertility Database and Human Fertility Collection (MPIDR and VID), the Latin American Mortality Database-LAMBdA (University of Wisconsin-Madison), the International Data Base (U.S. Census Bureau), the Global Burden of Disease project (IHME, University of Washington) and the Developing Countries Mortality Database-DCMD (Zhejiang University).
+
+Youth migration advocates in Marrakech, Morocco, December 2018, UN Photo/Mark Garten
+
+<!-- image -->
+
+## Demographic drivers of population change: fertility, mortality and international migration
+
+9. Global  population  trends  are  driven  largely by  trends  in  fertility  -  especially  in  the  average number of live births per woman over a lifetime which has fallen markedly over recent decades in many countries.
+
+Over the past several decades, virtually all regions have  experienced  fertility  decline  (figure  15).  In sub-Saharan  Africa,  where  the  average  level  of fertility is the highest of the eight SDG regions, total fertility  has  fallen  from  6.3  births  per  woman  in 1990 to 4.6 in 2019. Over the same period, fertility levels also fell in Northern Africa and Western Asia (from 4.4 to 2.9),  Central  and  Southern  Asia  (4.3 to 2.4), Eastern and South-Eastern Asia (2.5 to 1.8), Latin America and the Caribbean (3.3 to 2.0), and Oceania* (4.5 to 3.4).
+
+In Australia/New  Zealand  and  in  Europe  and Northern  America  the  levels  of  fertility  in  1990 were already below an average of two live births per woman over a lifetime and they remain so today, with  1.8  live  births  per  woman,  on  average,  in Australia/New Zealand in 2019 and 1.7 in Europe and Northern America.
+
+Globally, the level of fertility is expected to fall from an  average  of  2.5  live  births  per  woman  in  2019 to 2.2 in 2050 and to 1.9 in 2100, according to the medium-variant  projection.  However,  in  Europe and  Northern  America,  total  fertility  is  projected to increase slightly by the end of the century from 1.7  in  2019  to  1.8  in  2100.  The  largest  reductions in the average total fertility are projected to occur in  sub-Saharan  Africa  where  the  medium-variant
+
+## Figure 15. Estimated and projected total fertility by SDG region, 1950-2100, according to the medium-variant projection
+
+The average number of children born to women over a lifetime has fallen markedly in many regions over the past several decades
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+- * excluding Australia and New Zealand
+
+projection assumes  that fertility will fall from around 4.6 live births per woman in 2019 to 3.1 in 2050 and further to 2.1 in 2100.
+
+In most regions, the total number of births projected according to the medium variant over the 30-year period from 2020 to 2050 is similar to or less than the  number estimated for the 30 years from 1990 to 2020 (figure 16). Sub-Saharan Africa is a notable exception  among  the  eight  SDG  regions:  despite falling  fertility  levels,  the  number  of  births  in  the region  will  continue  to  increase.  The  nearly  1.4 billion babies projected to be born in sub-Saharan Africa between 2020 and 2050 is more than 50 per cent greater than the number of babies born between 1990 and 2020. Northern Africa and Western Asia is also projected to have more births in the coming 30 years than over the past 30, although the magnitude of the increase (13 per cent) is much smaller than for  sub-Saharan  Africa  according  to  the  medium variant.
+
+As a group, the 47 least developed countries, many of  which  are  located  in  sub-Saharan  Africa,  are projected to see 1.1 billion births from 2020 to 2050, which  marks  a  38  per  cent  increase  over  the  813 million babies born in LDCs during the period from 1990 to 2020. The substantial increase in the number of births projected for the least developed countries underscores  the  challenges  of  providing  adequate health  care  and  nutrition  to  growing  numbers  of infants and their mothers, as well as access to high quality education for growing numbers of children.
+
+Whereas in 1990 more than a third of the world's population  lived  in  countries  where  fertility  was above four births per woman, in 2019 only 12 per cent  of  the  world's  population  lives  in  such  highfertility contexts (figure 18).
+
+Of  the  36  countries  or  areas  with  fertility  levels above  four  births  per  woman  in  2019,  33  are found  in  sub-Saharan  Africa.  The  most  populous
+
+Table 3. Total fertility for the world, SDG regions and selected groups of countries, 1990, 2019, 2050 and 2100, according to the medium-variant projection
+
+|                                  |   Average number of live births per woman |   Average number of live births per woman |   Average number of live births per woman |   Average number of live births per woman |
+|----------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| Region                           |                                    1990   |                                    2019   |                                    2050   |                                    2100   |
+| World                            |                                       3.2 |                                       2.5 |                                       2.2 |                                       1.9 |
+| Sub-Saharan Africa               |                                       6.3 |                                       4.6 |                                       3.1 |                                       2.1 |
+| Northern Africa and Western Asia |                                       4.4 |                                       2.9 |                                       2.2 |                                       1.9 |
+| Central and Southern Asia        |                                       4.3 |                                       2.4 |                                       1.9 |                                       1.7 |
+| Eastern and South-Eastern Asia   |                                       2.5 |                                       1.8 |                                       1.8 |                                       1.8 |
+| Latin America and the Caribbean  |                                       3.3 |                                       2   |                                       1.7 |                                       1.7 |
+| Australia/New Zealand            |                                       1.9 |                                       1.8 |                                       1.7 |                                       1.7 |
+| Oceania *                        |                                       4.5 |                                       3.4 |                                       2.6 |                                       2   |
+| Europe and Northern America      |                                       1.8 |                                       1.7 |                                       1.7 |                                       1.8 |
+| Least developed countries        |                                       6   |                                       3.9 |                                       2.8 |                                       2.1 |
+| Land-locked Developing Countries |                                       5.7 |                                       3.9 |                                       2.7 |                                       2   |
+| Small Island Developing States   |                                       3.2 |                                       2.4 |                                       2.1 |                                       1.8 |
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+## Figure 16. Number of births by SDG region and selected groups of countries, 1990-2020 and 2020-2050, according to the medium-variant projection
+
+For populations with relatively high levels of fertility, projections point to substantial increases in the number of births
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+1990
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+T he designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan. The final status of Jammu and Kashmir has not yet been agreed upon by the parties. Final boundary between the Republic of Sudan the Republic of South Sudan has not yet been determined. A dispute exists between the Governments of Argentina and the United Kingdom of Great Britain and Northern Ireland concerning sovereignty over the Falkland Islands (Malvinas).
+
+countries with fertility equal to or greater than four live births per woman, on average, in 2019, ranked according to population size, are Nigeria, Ethiopia, the  Democratic  Republic  of  Congo,  the  United Republic of Tanzania, Uganda and Sudan. In 2050, it is expected that Niger will be the only country in the world experiencing a fertility level greater than four births per woman over a lifetime.
+
+In 2019, around 40 per cent of the world's population lives in intermediate-fertility countries, where women have on average between 2.1 and four births over a lifetime. Average lifetime fertility of 2.1 live births per woman is roughly the level required for populations with low mortality to have a growth rate  of  zero  in  the  long  run.  Intermediate-fertility countries  are  found  in  many  regions,  with  the largest  being  India,  Indonesia,  Pakistan,  Mexico, the  Philippines  and  Egypt.  In  2050,  it  is  expected that  slightly  less  than  30  per  cent  of  the  world's population will live in countries with fertility in this range.
+
+In  2019,  close  to  half  of  people  globally  live  in  a country  or  area  where  fertility  is  below  2.1  live births per woman compared to less than a quarter in 1990. Low-fertility countries now include all of Europe and Northern America and Australia and New Zealand, plus 4 countries or areas of Central and Southern Asia, 12 in Eastern and South-Eastern Asia, 20 in Latin America and the Caribbean, 10 in Northern Africa and Western Asia, 2 in Oceania* and  1  in  sub-Saharan  Africa.  The  most  populous low-fertility countries are China, the United States of America, Brazil, Bangladesh, the Russian Federation,  Japan  and  Viet  Nam.  In  2050,  it  is expected that 70 per cent of the world's population will  live  in  countries  where  women  give  birth  to fewer than 2.1 children on average over a lifetime.
+
+Between 1990 and 2019 the number of countries or areas with very low levels of fertility, below 1.5 births per woman on average, increased from 8 to 25. In 2019, six per cent of the world's population lives in such low-fertility contexts. While several additional
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+<!-- image -->
+
+countries  will  likely  see  fertility  fall  below  1.5  in the coming years, it is expected that over the long term low-fertility countries will experience a slight increase in fertility levels and that very low fertility contexts will be less prevalent by 2050 (see box 1).
+
+## 10.  Some  countries  continue  to  experience  high levels  of  adolescent  fertility  (births  to  mothers aged 15-19 years).
+
+From  2015  to 2020, an estimated 62 million babies will be born to mothers aged 15 to 19 years worldwide,  46  per  cent  of  them  in  sub-Saharan Africa, 18 per cent in Central and Southern Asia, and 14 per cent in Latin America and the Caribbean.
+
+## 11.  Life expectancy at birth for the world reached 72.6 years in 2019, having added more than 8 years since 1990.
+
+Levels of adolescent childbearing, which can have adverse health and social consequences both for the young mothers and for the children they bear, have fallen  in  most  countries.  Among  the  eight  SDG regions in 2015-2020, the adolescent birth rate, that is, the number of births per 1,000 women aged 15 to 19, was highest in sub-Saharan Africa, at 104 per 1,000 women, followed by Latin America and the Caribbean at 63 per 1,000. The ratio of adolescent to total fertility was highest in Latin America and the Caribbean, where the birth rate at ages 15 to 19 years contributed 15 per cent of total fertility.
+
+All  regions  shared  in  the  rise  of  life  expectancy over this period, but the greatest gains were in subSaharan  Africa,  where  improvements  in  survival have  added  nearly  12  years  to  the  average  length of  life  since  1990,  reaching  61.1  years  in  2019.  In Central  and  Southern  Asia,  the  life  expectancy  at birth increased by more than 11 years between 1990 and 2019, when it reached 69.9 years.
+
+Improvements in survival are expected to continue in all regions such that in 2050 the average length of  life  is  projected  to  have  increased  to  77.1  years globally. Of the eight SDG regions, life expectancy
+
+continue to experience high levels of adolescent fertility
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+T he designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan. The final status of Jammu and Kashmir has not yet been agreed upon by the parties. Final boundary between the Republic of Sudan the Republic of South Sudan has not yet been determined. A dispute exists between the Governments of Argentina and the United Kingdom of Great Britain and Northern Ireland concerning sovereignty over the Falkland Islands (Malvinas).
+
+Considerable progress has been made towards closing the longevity differential between countries,
+
+but wide gaps remain
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+Table 4. Life expectancy at birth by sex for the world, SDG regions, and selected groups of countries, 1990, 2019, and 2050, according to the medium-variant projection
+
+|                                  | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   | Life expectancy at birth (years)   |
+|----------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+|                                  | 1990                               | 1990                               | 1990                               | 2019                               | 2019                               | 2019                               | 2050                               | 2050                               | 2050                               |
+| Region                           | Males                              | Females                            | Both  sexes                        | Males                              | Females                            | Both  sexes                        | Males                              | Females                            | Both  sexes                        |
+| World                            | 61.9                               | 66.5                               | 64.2                               | 70.2                               | 75.0                               | 72.6                               | 74.8                               | 79.4                               | 77.1                               |
+| Sub-Saharan Africa               | 47.7                               | 51.1                               | 49.4                               | 59.3                               | 62.9                               | 61.1                               | 66.3                               | 70.8                               | 68.5                               |
+| Northern Africa and Western Asia | 62.8                               | 67.6                               | 65.1                               | 71.6                               | 76.0                               | 73.8                               | 76.6                               | 80.6                               | 78.5                               |
+| Central and Southern Asia        | 57.9                               | 59.2                               | 58.6                               | 68.5                               | 71.3                               | 69.9                               | 73.3                               | 77.1                               | 75.2                               |
+| Eastern and South-Eastern Asia   | 66.7                               | 71.0                               | 68.8                               | 74.0                               | 79.2                               | 76.5                               | 78.8                               | 82.9                               | 80.8                               |
+| Latin America and the Caribbean  | 65.0                               | 71.3                               | 68.1                               | 72.3                               | 78.7                               | 75.5                               | 78.5                               | 83.2                               | 80.9                               |
+| Australia/New Zealand            | 73.6                               | 79.7                               | 76.7                               | 81.3                               | 85.2                               | 83.2                               | 85.4                               | 88.7                               | 87.1                               |
+| Oceania *                        | 58.0                               | 61.1                               | 59.5                               | 65.1                               | 68.2                               | 66.6                               | 69.3                               | 73.4                               | 71.3                               |
+| Europe and Northern America      | 69.6                               | 77.3                               | 73.5                               | 75.7                               | 81.7                               | 78.7                               | 80.9                               | 85.5                               | 83.2                               |
+| Least developed countries        | 49.8                               | 52.5                               | 51.1                               | 63.3                               | 67.0                               | 65.2                               | 69.5                               | 74.2                               | 71.8                               |
+| Land-locked Developing Countries | 50.0                               | 54.2                               | 52.1                               | 63.5                               | 67.9                               | 65.8                               | 69.7                               | 74.7                               | 72.2                               |
+| Small Island Developing States   | 63.4                               | 67.8                               | 65.5                               | 70.1                               | 74.8                               | 72.4                               | 74.7                               | 79.4                               | 77.0                               |
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+- * excluding Australia and New Zealand
+
+at birth is highest in Australia/New Zealand, at 83.2 years in 2019, and it is expected to increase further to 87.1 in 2050. With a projected gain of 7.4 years between 2019 and 2050, when it could reach 68.5 years, sub-Saharan Africa has the largest expected improvement to the life expectancy at birth among the  eight  SDG  regions.  Across  all  countries  and regions, projected gains in life expectancy  are contingent on continued progress in the prevention and  treatment  of  diseases  that  cause  mortality, including HIV/AIDS and other infectious and noncommunicable  diseases,  as  well  as  the  absence  of catastrophic events, such as war or major epidemics of fatal diseases.
+
+12.  While  considerable  progress  has  been  made in  reducing  mortality  and  closing  the  longevity differential  between  countries,  the  gaps  remain wide.
+
+Life  expectancy  at  birth  in  the  least  developed countries  as  a  group  lags  7.4  years  behind  the global  average,  due  largely  to  persistently  high child  and  maternal  mortality  rates,  as  well  as  the consequences of conflict and the continuing impact of HIV-related mortality in some countries.
+
+Disparities in the average length of life between the world's  longest-lived  countries  and  shortest-lived countries amount to 30 years. With life expectancy at birth above 84 years in 2019, Japan and the Hong Kong  and  Macao  special  administrative  regions of China are the world's longest-lived countries or areas.  The  world's  shortest-lived  countries  are  the Central  African  Republic,  Chad,  Lesotho,  Nigeria and Sierra Leone, each with life expectancy at birth below 55 years in 2019.
+
+A  large  portion  of  the  longevity  gaps  between the shortestand longest-lived populations is attributable to disparities in the under-five mortality rate, which represents the probability of dying between birth and age 5. Progress in reducing under-five mortality has been substantial and farreaching in recent years, yet gaps remain. Globally, the under-five mortality rate fell from 93 deaths per 1,000 live births in 1990 to 38 in 2019. Still, a child born in sub-Saharan Africa in 2019 is 20 times as likely to die before his or her fifth birthday as a child born in Australia/New Zealand (figure 21).
+
+Although the HIV/AIDS epidemic continues to be a major public health concern, HIV-related mortality among adults appears to have reached a peak over the  past  decade  in  most  countries  that  have  been highly affected by the epidemic, thanks mostly to the increasing  availability  of  antiretroviral  treatments. Nevertheless,  in  countries  where  HIV  prevalence has been high, the impact of the epidemic in terms of morbidity, mortality and slower population growth continues to be evident. Thus, in Southern Africa , the sub-region with the highest prevalence 6 of  the  disease,  life  expectancy  at  birth  fell  from 62.9  years  in  1990  to  52.6  years  in  2004  and  has since recovered to just above the 1990 level, having reached 63.8 years in 2019. This represents a loss of two decades of potential improvements in survival rates for Southern Africa.
+
+Throughout  most  of  the  world,  survival  at  older ages  is  improving.  The  life  expectancy  at  age  65 reflects  the  average  number  of  additional  years  of life a 65-year-old person would live if subjected to the  age-specific  mortality  risks  of  a  given  period throughout the remainder of his or her life. Globally, in 1990-1995, 65-year-old women could expect to live an additional 16 years and 65-year-old men an additional  13  years  (figure  22).  In  2015-2020,  the expectation of life at age 65 has increased to 18 years for women and 16 years for men and it is projected to  increase  further,  reaching  20  years  for  women and 18 years for men in 2045-2050. Between 19901995  and  the  present  period,  the  largest  absolute gains in survival past age 65 were observed for men and  women  in  Australia/New  Zealand,  with  an addition of 4.4 years and 3.3 years, respectively, to the life expectancy at age 65, followed by males in Europe and Northern America (3.3 years), women in Eastern and South-Eastern Asia (3.2 years), and women in Latin  America  and  the  Caribbean  (2.9 years).
+
+Several developed countries have faced challenges to improving survival over recent decades. In some countries  of  Eastern  Europe,  the  life  expectancy at  birth  actually  declined  during  the  late  1980s and  1990s.  Progress  in  survival  resumed  in  these countries  during  the  2000s,  but  the  lasting  effects of those setbacks remain evident in wide disparities across countries of Europe, with life expectancy at
+
+birth in 2019 ranging from 72 years in the Republic of Moldova and Ukraine, to near 84 years in Italy, Spain and Switzerland. More recently, since around 2015, there is emerging evidence of slowing or stalled progress  in  life  expectancy  in  some  populations of  Europe and Northern America. In Canada, the
+
+United Kingdom and the United States, for example, recent vital statistics point to life expectancy in 20152020  that  is  lower  than  was  previously  projected based on the historical trajectory of improvement in survival in each country.
+
+## Figure 21. Under-five mortality rate for the world, SDG regions and selected group of countries, 2019
+
+A child born in sub-Saharan Africa is 20 times as likely to die before his or her fifth birthday as a child born in Australia/New Zealand
+
+Deaths under age five per 1,000 live births
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+Figure 22. Estimated and projected life expectancy at age 65 years for SDG regions, 1990-1995, 2015-2020, 2045-2050, according to the medium-variant projection
+
+<!-- image -->
+
+13.  In some  parts  of  the  world,  international migration  has  become  a  major  component  of population change.
+
+Among the eight SDG regions, three are net receivers of international migrants (figure 23) . These include 7 Europe and Northern America, where the estimated
+
+number of immigrants to the region exceeded the number  of  emigrants  by  25.9  million  during  the decade  2010-2020,  Northern  Africa  and  Western Asia (2.2 million), and Australia and New Zealand (1.9 million). The remaining five regions have been net senders of international migrants during 20102020. The estimated number of emigrants exceeded the number of immigrants the most in Central and Southern  Asia,  where  net  international  migration for the region is minus 15.1 million in 2010-2020, followed by Latin America and the Caribbean (-5.4 million), Eastern  and  South-Eastern  Asia  (-5.2 million),  sub-Saharan  Africa  (-4.1  million)  and Oceania,  excluding  Australia  and  New  Zealand (-208,000).
+
+For most regions, the absolute population gains or losses due to international migration were smaller in 2010-2020 than in the previous decade 2000-2010. Net  migration  to  Europe  and  Northern  America was  16  per  cent  less  in  2010-2020  compared  to 2000-2010. For Northern Africa and Western Asia, net  emigration  in  2010-2020  was  48  per  cent  less than in 2000-2010. Similarly, in Latin America and the  Caribbean,  the  net  loss  of  population  due  to international migration was 40 per cent less in 20102020  compared  to  2000-2010  and  in  Eastern  and South-Eastern Asia, it fell by half from one decade to the next. Of the eight regions, only sub-Saharan Africa experienced a substantial increase in the net population change due to international migration: the net loss of 4.1 million in 2010-2020 was 76 per cent  greater  than  the  net  loss  of  2.3  million  over 2000-2010.
+
+exceeded 1 million people over the past decade. All 14 were among the high-income or upper-middle income  countries  classified  in  2018  by  the  World Bank (figure  24).  For  several  of  the  top  receivers, including  Jordan,  Lebanon  and  Turkey,  the  large inflows of international migrants have been dominated  by  refugee  movements,  in  particular from Syria.
+
+Between  2010  and  2020,  36  countries  or  areas experienced a total net inflow of more than 200,000 migrants; in 14 of those countries net inflow
+
+It  is  estimated  that  ten  countries  are  experiencing a  net  outflow  of  more  than  1  million  migrants between 2010 and 2020. For many of these, losses of population  due  to  migration  are  dominated by temporary  labour movements,  such  as for Bangladesh (net outflow of -4.2 million during 20102020), Nepal (-1.8 million) and the Philippines (-1.2 million).  In  others,  including  Syria  (-7.5  million), Venezuela (-3.7 million), and Myanmar  (-1.3 million), insecurity, crisis and conflict have driven the net outflow of migrants over the decade.
+
+Figure 23. Net international migration by SDG region, 1980-1990, 1990-2000, 2000-2010, and 2010-2020
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . * excluding Australia and New Zealand
+
+## Figure 24. Net international migration during 2010-2020 and per capita annual gross national income
+
+The countries with the largest net numbers of immigrants are high-income or upper-middle-income countries
+
+Gross National Income per capita (logarithmic scale)
+
+<!-- image -->
+
+Bubble size is proportional to
+
+- Sub-Saharan Africa
+
+total population in 2019
+
+- Northern Africa and Western Asia
+
+Eastern and South-Eastern Asia
+
+Latin America and the Caribbean
+
+AustralialNew Zealand
+
+Oceania*
+
+Europe and Northern America
+
+Data sources: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 . GNI is from World Bank (2018). World Development Indicators. GNI per capita, Atlas method . * excluding Australia and New Zealand
+
+Note: Labelled countries are those where the net gains or losses due to international migration exceeded 1 million in 2010-2020.
+
+14.  International migration can attenuate decreasing population size in countries where the number of deaths exceeds the number of births.
+
+population decrease, but the population estimated for 2020 is still smaller than in 2010.
+
+Over the decade 2010-2020, nine countries experienced positive net migration (the number of immigrants  exceeding  the  number  of  emigrants) that countered negative natural increase (the number of deaths exceeding the number of births): Belarus,  Estonia,  Germany,  Hungary,  Italy,  Japan, the Russian Federation, Serbia and Ukraine (figure 25). In four of the nine countries (Belarus, Germany, Italy and the Russian Federation), the volume of net immigration  was  sufficient  to  offset  the  negative natural increase and maintain positive population growth  over  the  decade.  In  the  remaining  five countries, positive net migration slowed the rate of
+
+Conversely, negative net migration can exacerbate decreasing population  size caused  by  negative natural increase. During 2010-2020, ten countries, all  in  Europe,  experienced  both  negative  natural increase and negative net migration. These include Bosnia and Herzegovina, Bulgaria, Croatia, Greece, Poland,  Portugal,  Latvia,  Lithuania,  the  Republic of  Moldova  and  Romania.  Consequently,  all  ten countries experienced a decrease in population size over the decade, ranging from minus 1 per cent in the Republic of Moldova to minus 13 per cent in Lithuania.
+
+Figure 25. Direction of net international migration (immigrants-emigrants) and natural increase (births-deaths), 2010-2020
+
+<!-- image -->
+
+Data source: United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019 .
+
+T he designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan. The final status of Jammu and Kashmir has not yet been agreed upon by the parties. Final boundary between the Republic of Sudan the Republic of South Sudan has not yet been determined. A dispute exists between the Governments of Argentina and the United Kingdom of Great Britain and Northern Ireland concerning sovereignty over the Falkland Islands (Malvinas).
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+INDUSTRY NNOVATION
+
+ANDNFRASTRUCTURE
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Population dynamics and the Sustainable Development Goals
+
+15.  Societies  can  adapt  to  demographic  realities by  anticipating  future  trends  and  incorporating that  information  into  Government  policies  and planning.
+
+Inclusive economic growth is needed to support a growing  global  population,  which  could  increase by 835 million people between 2019 and 2030, the target date for the achievement of the 17 Sustainable Development  Goals.  Many  of  the  fastest  growing populations reside in the world's poorest countries, where  population  growth  is  putting  pressure  on already strained resources and challenging policies that  aim  to  achieve  the  SDGs  and  ensure  that  no one is left behind.
+
+in  the  number  of  women  of  reproductive  age. Programmes  to  expand  access  to  contraceptives must  keep  pace  with  population  growth  just  to maintain current levels of coverage. In all countries and areas, achieving gender equality and the empowerment of women requires eliminating all  forms  of  violence  and  discrimination  against women (SDG 5), promoting female education (SDG 4), and ensuring that women have access to safe and effective means of family planning (SDG 3), as well as equal access to the labour market (SDG 8), social security  and  the  political  process  (SDGs  8,  5  and 16).
+
+In sub-Saharan Africa, the region that is expected to account  for more  than  half  of the world's population  growth  over  the  coming  decades,  the number  of  babies  projected  to  be  born  between 2020  and  2050  (nearly  1.4  billion)  exceeds  the number  born  between  1990  and  2020  by  more than 50 per cent. A rapidly increasing number of births  poses  particularly  significant  challenges  for countries  striving  to  expand  services  for  mothers and newborns (SDGs 1, 3 and 5).
+
+A growing number of infants foreshadows growing numbers of  school-aged  children  and  adolescents and youth in the future. In the 47 least developed countries,  the  number  of  adolescents  and  youth aged 15 to 24 years is projected to grow from 207 million in 2019 to 336 million in 2050. Leveraging the  opportunity  presented  by  the  demographic dividend  depends  critically  on  investing  in  the health and education (SDGs 3 and 4) of the young people who will soon join the labour force, and on ensuring their successful integration into the labour market, with full and productive employment and decent work for all (SDG 8).
+
+Many  of  the  countries  with  the  highest  levels  of maternal  mortality  and  the  greatest  unmet  need for family planning continue to experience growth
+
+Persons aged 65 or over make up the world's fastestgrowing  age  group.  Virtually all countries are anticipating an increase in the percentage of older persons in their populations. Countries need to plan for population ageing and ensure the well-being of older persons by protecting their human rights and economic security and by ensuring access to ageappropriate  health  care  services,  lifelong  learning opportunities,  and  formal  and  informal  support networks (SDGs 1, 3, 4, 5, 8, 10 and 16).
+
+Urban areas are expected to absorb virtually all of the future growth of the world's population (United Nations,  2018).  Rapid  urban  growth  presents  an important opportunity, but it also poses challenges to the implementation  of  an  ambitious  urban development agenda that seeks to make cities and human  settlements  inclusive,  safe,  resilient  and sustainable (SDG 11).
+
+International  migration  can  be  a  transformative force, lifting millions of people out of poverty and contributing  to  sustainable  development  in  both countries  of  origin  and  countries  of  destination. Facilitating  safe,  orderly  and  regular  migration, while  reducing  incentives  for  irregular  migration, is the best possible way to harness the full development potential of migration (SDGs 8, 10 and 16).  Addressing  the  adverse  drivers  of  migration, such as poverty, insecurity and lack of decent work,
+
+can help to make the option of remaining in one's country viable for all people.
+
+While  the  relationships  between  population  size, consumption, technology and the environment are far from simple, demographic trends highlight the importance  of  integrating  population  dynamics into development planning (SDGs 6, 7, 9, 12, 13, 14 and 15).
+
+## Box 3. Strengthening the demographic evidence base for sustainable development
+
+Demographic  data  are  essential  for  development  planning  and  for  assessing  progress  towards  the achievement of development goals. Reliable and timely data are needed on the size, growth, distribution and characteristics of populations, and on births, deaths and migration.
+
+It  is  critical  to  strengthen national capacities to collect, use and disseminate demographic data gathered through  vital  statistics  systems  and  other  administrative  registers,  as  well  as  population  censuses  and nationally-representative surveys.
+
+In many countries, systems of civil registration and vital statistics urgently require strengthening to improve the availability, timeliness and reliability of such data. Civil registration system provide the preferred data for computing statistics on levels of fertility and mortality in a population, and for tracking changes in population size and its distribution by age and sex. Universal registration of births and deaths also helps to ensure access to legal identity for all persons, as called for by the SDGs.
+
+Well-maintained, centralized population registers are the most reliable source of information for deriving population estimates. In particular, they provide invaluable information on migration, including both arrivals and departures of international migrants.
+
+Information  gathered  through  a  population  census  is  critical  for  national  planning  purposes.  For  this reason,  the  United  Nations  recommends  that  national  governments  commit  to  taking  a  census  at  least once per decade (United Nations, 2017a). A census involves the complete enumeration of the population while  recording  the  basic  characteristics  of  individuals  and  households.  Advances  in  information  and communication technologies are being leveraged to improve efficiency in the collection, processing and dissemination of census data.
+
+Household surveys provide essential information for assessing progress toward the SDGs, including data disaggregated by key characteristics of individuals. Integrating survey programmes within national statistical systems  helps  to  promote  synergies  with  other  data  sources. The  United  Nations  provides  international guidelines for the collection, documentation and dissemination of such data.
+
+Demographic statistics are typically disaggregated by sex and age, and sometimes by income, race, ethnicity, migratory  status,  disability,  geographic  location  and  other  characteristics  relevant  in  national  contexts. Open-data policies facilitate the dissemination of individual-level data from censuses, surveys and other sources, but also require adequate safeguards to ensure confidentiality and protect privacy. Geographically referenced data provide users with maximum flexibility to specify sub-national units of analysis.
+
+The evidence base for sustainable development can be improved by ensuring that every birth and death is counted and registered, and by encouraging participation in the 2020 round of population censuses.
+
+## References
+
+United Nations (1956). Manual III. Methods for population projections by sex and age . United Nations publication, Sales No. 56.XIII.3.
+
+\_\_\_\_\_\_\_\_\_\_\_\_ (2015). Transforming our world: the 2030 Agenda for sustainable development . Resolution adopted by the General Assembly on 25 September 2015 (A/RES/70/1).
+
+\_\_\_\_\_\_\_\_\_\_\_\_ (2017a). Principles and Recommendations for Population and Housing Censuses: Revision 3 (ST/ESA/STAT/SER.M/67/Rev.3).
+
+\_\_\_\_\_\_\_\_\_\_\_\_ (2017b). Trends in International Migrant Stock: The 2017 Revision (POP/DB/MIG/ Stock/Rev.2017). Available at https://population.un.org/wpp/.
+
+\_\_\_\_\_\_\_\_\_\_\_\_ (2018). World Urbanization Prospects: The 2018 Revision: key facts . Available at https://population.un.org/wup/Publications/Files/WUP2018-KeyFacts.pdf.
+
+. Available at https://population.un.org/
+
+\_\_\_\_\_\_\_\_\_\_\_\_ (2019). World Population Prospects 2019 wpp/.
+
+World Bank (2018). World Development Indicators. GNI per capita. Atlas method . Washington, D.C.: The World Bank Group.
+
+<!-- image -->
+
+The 2019 revision of the World Population Prospects is the twenty-sixth edition of the official United Nations population estimates and projections. It presents population estimates  from  1950  to  the  present  for  235  countries  or  areas,  underpinned  by analyses  of  historical  demographic  trends.  This  latest  assessment  considers  the results of 1,690 national population censuses conducted between 1950 and 2018, as  well  as  information  from  vital  registration  systems  and  from  2,700  nationally representative sample  surveys.  The 2019  revision also presents population projections to the year 2100 that reflect a range of plausible outcomes at the global, regional and country levels.
+
+<!-- image -->
